@@ -1,15 +1,15 @@
-$font-size: 1em;
-$primary-color: #FF6961;
-$secondary-color: #CFCFC4;
-$box-border-color:#e5e5e5;
-$box-background-color:#EEE;
-$timeline-width: 2px;
-$icon-size: 32px;
-$icon-border-width: 4px;
-$block-spacing: 40px;
-$width-small: 800px;
-$arrow-size: 14px;
-$fa-size: 30px;
+$font-size: 1em !default;
+$primary-color: #FF6961 !default;
+$secondary-color: #CFCFC4 !default;
+$box-border-color:#e5e5e5 !default;
+$box-background-color:#EEE !default;
+$timeline-width: 2px !default;
+$icon-size: 32px !default;
+$icon-border-width: 4px !default;
+$block-spacing: 40px !default;
+$width-small: 800px !default;
+$arrow-size: 14px !default;
+$fa-size: 30px !default;
 
 @mixin collapsed() {
 	.timeline-block {
