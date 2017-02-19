@@ -1,8 +1,7 @@
 # ![Timelined](http://i.imgur.com/DQWLvYk.png) Timelined
 Timelined is a customizable CSS-only vertical timeline.
 
-#### Static Demo - http://timelined.andriaus.lt/
-#### Dynamic (AngularJS) Demo - http://timelined.andriaus.lt/angular (https://github.com/andriussev/timelined-angular)
+#### Static Demo - http://timelined.betterexperience.site/demo.html
 
 ## Quick start
 
@@ -71,7 +70,7 @@ Basic example of how everything would work:
 Schemes are a quick way to change the color of the line, icon on the timeline and  border of the block. The names are self-explanitory: `gray-red`, `gray-blue`, `blue-yellow-yellow`, `purple-flirt`,`blue-blue-blue`.
 Adding the scheme name as a class on the main container will do the job.
 
-## Static Demo - http://timelined.andriaus.lt/
+## Static Demo - http://timelined.betterexperience.site/demo.html
 
 ## License
 The MIT License (MIT)
